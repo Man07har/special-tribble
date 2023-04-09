@@ -12,7 +12,7 @@ Installation
 To install and run the expense tracker app locally, please follow the steps below:
 
 Clone the repository:
-git clone https://github.com/your-username/expense-tracker.git
+git clone https://github.com/man07har/expense-tracker.git
 
 Install dependencies:
 cd expense-tracker
@@ -42,7 +42,7 @@ To install and run the expense tracker app locally, please follow the steps belo
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/expense-tracker.git
+git clone https://github.com/man07har/expense-tracker.git
 Install dependencies:
 bash
 Copy code
