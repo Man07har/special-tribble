@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/special-tribble/static/css/main.4b998ee4.css",
+    "main.js": "/special-tribble/static/js/main.e257b3a7.js",
+    "index.html": "/special-tribble/index.html",
+    "main.4b998ee4.css.map": "/special-tribble/static/css/main.4b998ee4.css.map",
+    "main.e257b3a7.js.map": "/special-tribble/static/js/main.e257b3a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b998ee4.css",
+    "static/js/main.e257b3a7.js"
+  ]
+}
